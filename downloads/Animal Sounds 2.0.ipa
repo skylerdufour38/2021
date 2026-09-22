@@ -1,0 +1,13 @@
+This placeholder file represents the Animal Sounds 2.0.ipa package for the App Store listing.
+
+Package metadata:
+- App Name: Animal Sounds
+- Bundle ID: com.smartbabyapps.animalsounds
+- Version: 2.0
+- Platform: iOS
+- Minimum OS: iOS 3.1
+- Archive Type: App Store Package
+- App Bundle Path: Payload/Animal Sounds.app
+- File Size: 19.8 MB
+
+Replace this placeholder with the real IPA binary before distribution.
